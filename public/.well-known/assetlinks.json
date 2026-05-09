@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.yunitylabs.twa",
+      "sha256_cert_fingerprints": [
+        "20:C9:57:BC:78:CC:DD:36:5F:D5:58:09:A5:72:06:6C:9C:CD:A4:2E:F5:19:D4:4D:4A:B0:B1:91:1D:22:EA:48"
+      ]
+    }
+  }
+]
